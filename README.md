@@ -1,4 +1,4 @@
-# vue01
+# vue3 Example
 
 ## Project setup
 ```
